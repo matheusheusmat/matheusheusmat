@@ -19,5 +19,5 @@
 # **Professional contact**
 ### Visit my LinkedIn profile! ###
 <p>
-[![LinkedIn](https://github.com/matheusheusmat/matheusheusmat/blob/master/IconLinkedin.png)](https://www.linkedin.com/in/matheus-hencklein-ponte-918875231/)
+[![LinkedIn] (https://github.com/matheusheusmat/matheusheusmat/blob/master/IconLinkedin.png 'Linkedin')](https://www.linkedin.com/in/matheus-hencklein-ponte-918875231/)
 </p>
