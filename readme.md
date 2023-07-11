@@ -8,9 +8,16 @@
 </p>
 
 # **Experiences**
+### Programming languages ###
 <p>
-<picture><img alt="" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconJava.png"></picture>
-<picture><img alt="" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconPython.png"></picture>
-<picture><img alt="" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconC.png"></picture>
-<picture><img alt="" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png"></picture>
+<picture><img alt="Python" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconPython.png"></picture>
+<picture><img alt="Java" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconJava.png"></picture>
+<picture><img alt="C" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconC.png"></picture>
+<picture><img alt="Arduino" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png"></picture>
+</p>
+
+# **Professional contact**
+### Visit my LinkedIn profile! ###
+<p>
+[![LinkedIn](https://github.com/matheusheusmat/matheusheusmat/blob/master/IconLinkedin.png)](https://www.linkedin.com/in/matheus-hencklein-ponte-918875231/)
 </p>
