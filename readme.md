@@ -19,5 +19,5 @@
 # **Professional contact**
 ### Visit my LinkedIn profile! ###
 <p>
-<a href="https://www.linkedin.com/in/matheus-hencklein-ponte-918875231/"><img alt="LinkedIn" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png">
+<a href="https://www.linkedin.com/in/matheus-hencklein-ponte-918875231/"><img alt="LinkedIn" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconLinkedin.png">
 </p>
