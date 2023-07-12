@@ -16,6 +16,17 @@
 <picture><img alt="Arduino" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png"></picture>
 </p>
 
+### Projects ###
+<p>
+GreatGrades - academic life organization app
+<a href="https://github.com/lcardosott/greatGrades"><img alt="GreatGrades" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconGreatGrades.png">
+</p>
+
+<p>
+OctoSensor - system composed by 8 laser range-finder sensor pods synced to a central
+<a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png">
+</p>
+
 # **Professional contact**
 ### Visit my LinkedIn profile! ###
 <p>
