@@ -30,11 +30,9 @@ Built in Arduino C++ for artistic purposes<br>
 </p>
 
 ## University subjects' exercises ##
-<p>
 [MC102 - Algorithms and Computer Programming (Python exercises)](https://github.com/matheusheusmat/MC102)<br>
 [MC202 - Data Structures (C exercises)](https://github.com/matheusheusmat/MC202)<br>
 [MC322 - Object Oriented Programming (Java exercises)](https://github.com/matheusheusmat/mc322-turmaB)<br>
-</p>
 
 
 # **Professional contact**
