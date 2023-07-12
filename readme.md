@@ -29,6 +29,14 @@ Built in Arduino C++ for artistic purposes<br>
 <a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png">
 </p>
 
+## University subjects' exercises ##
+<p>
+[MC102 - Algorithms and Computer Programming (Python exercises)](https://github.com/matheusheusmat/MC102)<br>
+[MC202 - Data Structures (C exercises)](https://github.com/matheusheusmat/MC202)<br>
+[MC322 - Object Oriented Programming (Java exercises)](https://github.com/matheusheusmat/mc322-turmaB)<br>
+</p>
+
+
 # **Professional contact**
 ### Visit my LinkedIn profile! ###
 <p>
