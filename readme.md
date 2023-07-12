@@ -8,7 +8,7 @@
 </p>
 
 # **Experiences**
-### Programming languages ###
+## Programming languages ##
 <p>
 <picture><img alt="Python" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconPython.png"></picture>
 <picture><img alt="Java" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconJava.png"></picture>
@@ -16,14 +16,16 @@
 <picture><img alt="Arduino" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png"></picture>
 </p>
 
-### Projects ###
+## Projects ##
 <p>
-GreatGrades - academic life organization app
+###**GreatGrades** - academic life organization app###
+Built in Java as a course conclusion project<br>
 <a href="https://github.com/lcardosott/greatGrades"><img alt="GreatGrades" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconGreatGrades.png">
 </p>
 
 <p>
-OctoSensor - system composed by 8 laser range-finder sensor pods synced to a central
+###**OctoSensor** - 8 distance sensors powered by infrared lights###
+Built in Arduino C++ for artistic purposes<br>
 <a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png">
 </p>
 
