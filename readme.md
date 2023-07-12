@@ -17,13 +17,13 @@
 </p>
 
 ## Projects ##
-### GreatGrades - academic life organization app ###
+### **GreatGrades** - academic life organization app ###
 <p>
 Built in Java as a course conclusion project<br>
 <a href="https://github.com/lcardosott/greatGrades"><img alt="GreatGrades" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconGreatGrades.png">
 </p>
 
-### OctoSensor - 8 distance sensors powered by infrared lights ###
+### **OctoSensor** - 8 distance sensors powered by infrared lights ###
 <p>
 Built in Arduino C++ for artistic purposes<br>
 <a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png">
