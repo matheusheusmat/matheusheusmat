@@ -14,6 +14,7 @@
 <picture><img alt="Java" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconJava.png"></picture>
 <picture><img alt="C" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconC.png"></picture>
 <picture><img alt="Arduino" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png"></picture>
+<picture><img alt="RISC-V" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconRiscV.png" width="72" height="56"></picture>
 </p>
 
 ## Projects ##
@@ -33,6 +34,7 @@ Built in Arduino C++ for artistic purposes<br>
 [MC102 - Algorithms and Computer Programming (Python exercises)](https://github.com/matheusheusmat/MC102)<br>
 [MC202 - Data Structures (C exercises)](https://github.com/matheusheusmat/MC202)<br>
 [MC322 - Object Oriented Programming (Java exercises)](https://github.com/matheusheusmat/mc322-turmaB)<br>
+[MC404 - Basic computers' organization and assembly language (RISC-V Assembly exercises)](https://github.com/matheusheusmat/MC404)<br>
 
 
 # **Professional contact**
