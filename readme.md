@@ -27,7 +27,7 @@ Built in Java as a course conclusion project<br>
 ### **OctoSensor** - 8 distance sensors powered by infrared lights ###
 <p>
 Built in Arduino C++ for artistic purposes<br>
-<a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png">
+<a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png" width="77" height="72">
 </p>
 
 ## University subjects' exercises ##
