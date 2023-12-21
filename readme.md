@@ -10,10 +10,10 @@
 # **Experiences**
 ## Programming languages ##
 <p>
-<picture><img alt="Python" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconPython.png"></picture>
+<picture><img alt="Python" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconPython.png" width="72" height="72"></picture>
 <picture><img alt="Java" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconJava.png"></picture>
-<picture><img alt="C" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconC.png"></picture>
-<picture><img alt="Arduino" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png"></picture>
+<picture><img alt="C" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconC.png" width="72" height="81"></picture>
+<picture><img alt="Arduino" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png" width="106" height="72"></picture>
 <picture><img alt="RISC-V" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconRiscV.png" width="72" height="56"></picture>
 </p>
 
@@ -40,5 +40,5 @@ Built in Arduino C++ for artistic purposes<br>
 # **Professional contact**
 ### Visit my LinkedIn profile! ###
 <p>
-<a href="https://www.linkedin.com/in/matheus-hencklein-ponte-918875231/"><img alt="LinkedIn" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconLinkedin.png">
+<a href="https://www.linkedin.com/in/matheus-hencklein-ponte-918875231/"><img alt="LinkedIn" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconLinkedin.png" width="72" height="72">
 </p>
