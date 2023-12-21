@@ -14,7 +14,7 @@
 <picture><img alt="Java" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconJava.png"></picture>
 <picture><img alt="C" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconC.png" width="72" height="81"></picture>
 <picture><img alt="Arduino" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png" width="94" height="64"></picture>
-<picture><img alt="RISC-V" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconRiscV.png" width="72" height="56"></picture>
+<picture><img alt="RISC-V" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconRiscV.png" width="85" height="66"></picture>
 </p>
 
 ## Projects ##
