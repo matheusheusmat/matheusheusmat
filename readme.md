@@ -21,7 +21,7 @@
 ### **GreatGrades** - academic life organization app ###
 <p>
 Built in Java as a course conclusion project<br>
-<a href="https://github.com/lcardosott/greatGrades"><img alt="GreatGrades" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconGreatGrades.png">
+<a href="https://github.com/lcardosott/greatGrades"><img alt="GreatGrades" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconGreatGrades.png" width="72" height="72">
 </p>
 
 ### **OctoSensor** - 8 distance sensors powered by infrared lights ###
