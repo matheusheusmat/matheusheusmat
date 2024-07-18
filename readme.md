@@ -36,7 +36,7 @@ Built in Arduino C++ for artistic purposes<br>
 ### **Unicamp Academic Life** - 8 distance sensors powered by infrared lights ###
 <p>
 A simple website, built using pure HTML and CSS, as a course conclusion project<br>
-<a href="https://matheusheusmat.github.io/unicamp-academic-life/index.html"><img alt="Unicamp Academic Life" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconUnicampAcLife.png" width="77" height="72">
+<a href="https://matheusheusmat.github.io/unicamp-academic-life/index.html"><img alt="Unicamp Academic Life" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconUnicampAcLife.png" width="84" height="72">
 </p>
 
 ### **Paint on FPGA** - MS Paint-based clone for DE1-SoC FPGA ###
