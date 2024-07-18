@@ -33,6 +33,12 @@ Built in Arduino C++ for artistic purposes<br>
 <a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png" width="77" height="72">
 </p>
 
+### **Unicamp Academic Life** - 8 distance sensors powered by infrared lights ###
+<p>
+A simple website, built using pure HTML and CSS, as a course conclusion project<br>
+<a href="https://matheusheusmat.github.io/unicamp-academic-life/index.html"><img alt="Unicamp Academic Life" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconUnicampAcLife.png" width="77" height="72">
+</p>
+
 ### **Paint on FPGA** - MS Paint-based clone for DE1-SoC FPGA ###
 <p>
 Built in Verilog HDL as a course conclusion project<br>
@@ -43,7 +49,7 @@ Built in Verilog HDL as a course conclusion project<br>
 [MC102 - Algorithms and Computer Programming (Python exercises)](https://github.com/matheusheusmat/MC102)<br>
 [MC202 - Data Structures (C exercises)](https://github.com/matheusheusmat/MC202)<br>
 [MC322 - Object Oriented Programming (Java exercises)](https://github.com/matheusheusmat/mc322-turmaB)<br>
-[MC404 - Basic computers' organization and assembly language (RISC-V Assembly exercises)](https://github.com/matheusheusmat/MC404)
+[MC404 - Basic computers' organization and assembly language (RISC-V Assembly exercises)](https://github.com/matheusheusmat/MC404)<br>
 [MC536 - Digital circuits' development (Verilog HDL exercises)](https://github.com/matheusheusmat/MC536)<br>
 
 
