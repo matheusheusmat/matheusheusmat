@@ -50,7 +50,7 @@ Built in Verilog HDL as a course conclusion project<br>
 [MC202 - Data Structures (C exercises)](https://github.com/matheusheusmat/MC202)<br>
 [MC322 - Object Oriented Programming (Java exercises)](https://github.com/matheusheusmat/mc322-turmaB)<br>
 [MC404 - Basic computers' organization and assembly language (RISC-V Assembly exercises)](https://github.com/matheusheusmat/MC404)<br>
-[MC536 - Digital circuits' development (Verilog HDL exercises)](https://github.com/matheusheusmat/MC536)<br>
+[MC613 - Development of Digital Circuits (Verilog HDL exercises)](https://github.com/matheusheusmat/MC613)<br>
 
 
 # **Professional contact**
