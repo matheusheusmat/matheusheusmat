@@ -14,8 +14,8 @@
 <picture><img alt="Java" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconJava.png" width="72" height="72"></picture>&nbsp;&nbsp;&nbsp;
 <picture><img alt="C" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconC.png" width="72" height="81"></picture>&nbsp;&nbsp;&nbsp;&nbsp;
 <picture><img alt="Arduino" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconArduino.png" width="94" height="64"></picture>
-<picture><img alt="RISC-V" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconRiscV.png" width="85" height="66"></picture>
-<picture><img alt="HTML5 and CSS3" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconHTMLCSS.png" width="108" height="70"></picture>&nbsp;&nbsp;&nbsp;
+<picture><img alt="RISC-V" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconRiscV.png" width="85" height="66"></picture>&nbsp;
+<picture><img alt="HTML5 and CSS3" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconHTMLCSS.png" width="108" height="70"></picture>&nbsp;&nbsp;&nbsp;&nbsp;
 <picture><img alt="Verilog" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconVerilog.png" width="72" height="72"></picture>
 </p>
 
@@ -33,11 +33,18 @@ Built in Arduino C++ for artistic purposes<br>
 <a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png" width="77" height="72">
 </p>
 
+### **Paint on FPGA** - MS Paint-based clone for DE1-SoC FPGA ###
+<p>
+Built in Verilog HDL as a course conclusion project<br>
+<a href="https://github.com/ic-unicamp/2024s1-mc613-projeto-triunvirato"><img alt="Paint on FPGA" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconPaintFPGA.png" width="72" height="72">
+</p>
+
 ## University subjects' exercises ##
 [MC102 - Algorithms and Computer Programming (Python exercises)](https://github.com/matheusheusmat/MC102)<br>
 [MC202 - Data Structures (C exercises)](https://github.com/matheusheusmat/MC202)<br>
 [MC322 - Object Oriented Programming (Java exercises)](https://github.com/matheusheusmat/mc322-turmaB)<br>
-[MC404 - Basic computers' organization and assembly language (RISC-V Assembly exercises)](https://github.com/matheusheusmat/MC404)<br>
+[MC404 - Basic computers' organization and assembly language (RISC-V Assembly exercises)](https://github.com/matheusheusmat/MC404)
+[MC536 - Digital circuits' development (Verilog HDL exercises)](https://github.com/matheusheusmat/MC536)<br>
 
 
 # **Professional contact**
