@@ -45,6 +45,12 @@ Built in Verilog HDL as a course conclusion project<br>
 <a href="https://github.com/ic-unicamp/2024s1-mc613-projeto-triunvirato"><img alt="Paint on FPGA" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconPaintFPGA.png" width="72" height="72">
 </p>
 
+### **Fill Up** - App for daily challenges based on United Nations SDG ###
+<p>
+Built in Flutter during a semester for the Software Engineering subject<br>
+<a href="https://github.com/Joaotakaki1/mc656-final-project"><img alt="Paint on FPGA" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconFillUp.png" width="72" height="72">
+</p>
+
 ## University subjects' exercises ##
 [MC102 - Algorithms and Computer Programming (Python exercises)](https://github.com/matheusheusmat/MC102)<br>
 [MC202 - Data Structures (C exercises)](https://github.com/matheusheusmat/MC202)<br>
