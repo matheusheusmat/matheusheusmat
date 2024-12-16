@@ -21,7 +21,7 @@
 
 
 ## Projects ##
-### **GreatGrades** - academic life organization app ###
+### **GreatGrades** - Academic life organization app ###
 <p>
 Built in Java as a course conclusion project<br>
 <a href="https://github.com/lcardosott/greatGrades"><img alt="GreatGrades" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconGreatGrades.png" width="72" height="72">
@@ -33,7 +33,7 @@ Built in Arduino C++ for artistic purposes<br>
 <a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png" width="77" height="72">
 </p>
 
-### **Unicamp Academic Life** - 8 distance sensors powered by infrared lights ###
+### **Unicamp Academic Life** - A little about the life of a college student ###
 <p>
 A simple website, built using pure HTML and CSS, as a course conclusion project<br>
 <a href="https://matheusheusmat.github.io/unicamp-academic-life/index.html"><img alt="Unicamp Academic Life" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconUnicampAcLife.png" width="84" height="72">
