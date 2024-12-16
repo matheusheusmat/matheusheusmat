@@ -27,9 +27,9 @@ Built in Java as a course conclusion project<br>
 <a href="https://github.com/lcardosott/greatGrades"><img alt="GreatGrades" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconGreatGrades.png" width="72" height="72">
 </p>
 
-### **OctoSensor** - 8 distance sensors powered by infrared lights ###
+### **OctoSensor** - Development of several types of sensors using ESP-32 development platform ###
 <p>
-Built in Arduino C++ for artistic purposes<br>
+Built in Arduino C for artistic purposes. I developed touch sensors, distance sensors, face recognition based on ESP-32 Cam modules, and applied them to art exhibitions<br>
 <a href="https://github.com/jupgit/octosensor"><img alt="OctoSensor" src="https://github.com/matheusheusmat/matheusheusmat/blob/master/IconOctoSensor.png" width="77" height="72">
 </p>
 
